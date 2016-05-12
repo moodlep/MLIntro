@@ -13,11 +13,6 @@ Some requirements:
 Note: the jupyter notebook contains the code and the output saved from the last run.
 
 ## TensorFlow snippets
-These code snippets are provided in gist links below. 
-The dataset was too big to upload however these samples are actually the assignments from the Udacity course on Deep Learning that covers how/where to get the dataset from. (Note the link to the course is in the slides)
+The dataset was too big to upload so the notebooks for these samples will not run however the samples are the assignments from the Udacity course on Deep Learning that covers how/where to get the dataset from. (Note the link to the course is in the slides). 
+The notebook is saved with the output from the run. 
 
-Softmax Classification: 
-https://gist.github.com/moodlep/2f961597b69d83bfbf8e5bb0a531e5f3
-
-Classification with NN: 
-https://gist.github.com/moodlep/c07e970ffa9759113a9ff5eeb5ba3ce6
