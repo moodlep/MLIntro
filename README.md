@@ -10,9 +10,11 @@ Some requirements:
   https://developers.google.com/identity/protocols/OAuth2
   Samples use a service account: https://developers.google.com/identity/protocols/OAuth2#serviceaccount
 
+Note: the jupyter notebook contains the code and the output saved from the last run.
+
 ## TensorFlow snippets
 These code snippets are provided in gist links below. 
-The dataset was too big to upload however these samples are actually the assignments from the Udacity course on Deep Learning that covers how/where to get the dataset from. 
+The dataset was too big to upload however these samples are actually the assignments from the Udacity course on Deep Learning that covers how/where to get the dataset from. (Note the link to the course is in the slides)
 
 Softmax Classification: 
 https://gist.github.com/moodlep/2f961597b69d83bfbf8e5bb0a531e5f3
